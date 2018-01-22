@@ -6,10 +6,11 @@ Previous Punishments
 !!modlogs <mention>
 
 
-Server / DM Advertising
-  Offense [1] Kick User for "Server / DM Advertising"
-  Offense [2] Ban User for "Server / DM Advertising" with a duration of 3 days.
-  Offense [3] Ban User for "Server / DM Advertising [Final]" permanently.
+In Server Adversiting
+  Offense [1] Warn User for "Advertising"
+  Offense [2] Mute User for "Server Advertising" with a duration of 12 hours.
+  Offense [3] Mute User for "Server Advertising" with a duration of 3 days.
+  Offense [4] Mute User for "Server Advertising [Final]" permanently.
 
 
 Chat Spamming / Promoting Spam / Copy Pasta / Other Forms of Spam
@@ -29,6 +30,7 @@ Chat Disrepect / Racism [Ban for DM with Identical Length]
 Misc Bans
   Server Raider [] Ban User for "Server Raiding / Abuse" permanently.
   Pornographic Content [] Ban User for "Inappropriate Images / Content" permanently.
+  DM Advertising [] Ban User for "DM Advertising" permanently.
 
 
 Misc Mutes
