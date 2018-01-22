@@ -34,3 +34,4 @@ Misc Bans
 Misc Mutes
   Interference [] Mute User for "Staff Interference" with a duration of 30 minutes.
   Impersonation [] Mute User for "Impersonation" with a duration of 2 hours.
+  Everyone [] Mute User for "Attempting Mass Mention" with a duration of 30 minutes.
